@@ -1,0 +1,62 @@
+---
+title: "FIRST framework resources"
+author: "Szymon (Szymek) Drobniak et al."
+date: "`r Sys.Date()`"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 2
+    theme: simplex
+    embed-resources: true
+    code-fold: show
+    code-tools: true
+    number-sections: true
+crossref: 
+  fig-title: Figure     # (default is "Figure")
+  tbl-title: Table     # (default is "Table")
+  title-delim: —     # (default is ":")
+  fig-prefix: Fig.   # (default is "Figure")
+  tbl-prefix: Tab.    # (default is "Table")
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- future development: glmmTMB example, PIC example, FVT example   -->
+
+# Setup your session
+
+```{r}
+#| output: false
+#| warning: false
+#| label: packages
+#| code-overflow: wrap
+#| code-fold: true
+
+pacman::p_load(
+    here,
+    tidyverse,
+    flextable,
+    formattable
+)
+
+# options(digits = 3, scipen = 5)
+```
+
+
+
+```{r}
+res_data <- read_delim("sup_data.csv", delim = ";", col_types = "cccc")
+```
+
+```{r}
+formattable(res_data)
+```
+
+<!--
+| Name | FIRST stage | Comments | Link |
+|:-----|:---|:-------|:-------|
+| GitHub | 3, 4, 5 | Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements | [github.com](http://github.com) |
+
+: List of resources {#tbl-resources}
+-->
