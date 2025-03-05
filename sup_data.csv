@@ -1,2 +1,3 @@
 ﻿Name;FIRST Stage;Comment;Link
 GitHub;3,4,5;Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements;github.com
+Git LFS;3,5;A way to store and version-control (through git) files that are too large for a typical GitHub repository.;git-lfs.com
