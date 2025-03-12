@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿Name;FIRST Stage;Comment;Free;Link;Link accesion date
+Name;FIRST Stage;Comment;Free;Link;Access date
 GitHub;3,4,5;Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements;Yes;github.com;March, 7th 2025
 OSF Registries ;1;A website that collects and enables pre-registration of research.;Yes;https://osf.io/registries;March, 7th 2025
 Centre for Open Science Registered Reports;1;Provides a list of journals that accept Registered Reports for submission;Yes;https://www.cos.io/initiatives/registered-reports;March, 7th 2025
@@ -33,8 +32,3 @@ Authorea;5;A multi-disciplinary platform for researchers to draft, share preprin
 Word;5;Microsoft's widely used text editor that enables creating and editing documents as well as collaborative writing;Yes;https://www.microsoft.com/en-us/microsoft-365/word;March, 8th 2025
 Exemplary OA Journals;5;Open Access publication;;;
 PCI Journals;5;Overlay journals with Diamond OA;;;
-=======
-﻿Name;FIRST Stage;Comment;Link
-GitHub;3,4,5;Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements;github.com
-Git LFS;3,5;A way to store and version-control (through git) files that are too large for a typical GitHub repository.;git-lfs.com
->>>>>>> e84d1457a05ac5bce1a1e7238e86405703daa2f7
