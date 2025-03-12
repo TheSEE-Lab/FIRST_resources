@@ -43,8 +43,6 @@ pacman::p_load(
 # options(digits = 3, scipen = 5)
 ```
 
-
-
 ```{r}
 res_data <- read_delim("sup_data.csv", delim = ";", col_types = "cccc")
 ```
@@ -53,6 +51,7 @@ res_data <- read_delim("sup_data.csv", delim = ";", col_types = "cccc")
 formattable(res_data)
 ```
 
+```{=html}
 <!--
 | Name | FIRST stage | Comments | Link |
 |:-----|:---|:-------|:-------|
@@ -60,3 +59,8 @@ formattable(res_data)
 
 : List of resources {#tbl-resources}
 -->
+```
+
+pretty tables in r
+
+link jako hiperlacze

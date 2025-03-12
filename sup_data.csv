@@ -1,2 +1,34 @@
-﻿Name;FIRST Stage;Comment;Link
-GitHub;3,4,5;Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements;github.com
+﻿Name;FIRST Stage;Comment;Free;Link;Link accesion date
+GitHub;3,4,5;Version-control system allowing for easy recording of data and code, workflow for maintaining updateable supplements;Yes;github.com;March, 7th 2025
+OSF Registries ;1;A website that collects and enables pre-registration of research.;Yes;https://osf.io/registries;March, 7th 2025
+Centre for Open Science Registered Reports;1;Provides a list of journals that accept Registered Reports for submission;Yes;https://www.cos.io/initiatives/registered-reports;March, 7th 2025
+Google Sheets;1,2,3;One of the Google Workspace applications is cloud-based spreadsheet that enables data entry, formatting  and storage, as well as real-time cooperation and tracking of change history. It is shareable and compatible with Microsoft Excel.;Yes;https://workspace.google.com/products/sheets/;March, 7th 2025
+Excel ;1,2,3;Microsoft's spreadsheet application for organize and calcucate data. ;Yes;https://www.microsoft.com/en-us/microsoft-365/excel;March, 7th 2025
+OneDrive;1,2,3 ;Microsoft's cloud storage platform that offers sharing and collaborative  functions for co-workers.;Yes;http://onedrive.com;March, 8th 2025
+Notion;1,2,3;A collaborative notebook that for team communication and managing projects. Enables planing, brainstorming as well as writing. ;Yes (for individuals);https://www.notion.com/;March, 8th 2025
+Evernote;1,2;A tool that helps to organize work by adding to-do lists, notes and tasks organization. ;Yes (with limits);https://evernote.com/;March, 8th 2025
+OneNote;1,2;Microsoft's digital notebook application allows you to create notes, including sketches and handwriting. It is shareable and enables collaboration with team members.;Yes;https://onenote.com/;March, 8th 2025
+Slack;1,2;Communication platform for workplan organisation, communication and follow-up with team members. Enable file sharing and intregrations with productivity tools. ;Yes (with limits);https://slack.com/;March, 8th 2025
+Discord;1,2;Communication application for teams and communities. ;Yes;https://discord.com/;March, 8th 2025
+MS Teams;1,2;Microsoft's communication application that enables chat and video meetings as well as file sharing. ;Yes;https://www.microsoft.com/en-us/microsoft-teams/log-in;March, 8th 2025
+Dropbox;3;A cloud storage platform for file sharing and data backup.;Yes (with limits);https://www.dropbox.com/;March, 8th 2025
+Open Science Framework (OSF);3;Open Science Framework is a platform for collaboration, data collection and sharing, but with limited options;Yes;https://osf.io/;March, 8th 2025
+Rayyan;3;A web application for systematic literature reviews, helping researchers organize and screen references.;Yes;https://www.rayyan.ai/;March, 8th 2025
+Zotero;3, 5;A reference management software for collecting, organizing, citing, and export bibliographies.;Yes;https://www.zotero.org;March, 8th 2025
+EndNote;3;A reference management software for collecting, organizing, citing, and export bibliographies.;No;https://endnote.com/;March, 8th 2025
+Paperpile;3;A cloud-based reference  tool for collecting, organizing, browse PDFs, integrated withGoogle Apps.;No;https://paperpile.com/;March, 8th 2025
+Paper (Dropbox tool);3;A collaborative document-editing tool.;Yes;https://www.dropbox.com/paper;March, 8th 2025
+R;4;An environment for statistical computing, data analysis, and visualization.;Yes;https://www.r-project.org/;March, 8th 2025
+Python;4;Universal programming language for data science, supported by variety of libraries.;Yes;https://www.python.org/;March, 8th 2025
+Julia;4;A high-performance programming language for scientific computing.;Yes;https://julialang.org/;March, 8th 2025
+STAN;4;Software for Bayesian Data Analysis with tools for validation and visualization;Yes;https://mc-stan.org/;March, 8th 2025
+Rstudio;4;An integrated development environment for R, used for data analysis and visualization.;Yes;https://posit.co/download/rstudio-desktop/;March, 8th 2025
+VS Code;4;Microsoft's code editor with support for multiple programming languages;Yes;https://code.visualstudio.com/;March, 8th 2025
+Jupyter;4;An interactive computing environment for writing and executing code.;Yes;https://jupyter.org/;March, 8th 2025
+Shiny;4;Web applications platform for R and Python languages;Yes;https://shiny.posit.co/;March, 8th 2025
+EcoEvoRXiv;5;A preprint repository for sharing works in ecology, evolution and conservation.;Yes;https://ecoevorxiv.org/;March, 8th 2025
+BioRxiv;5;A preprint repository for sharing research in life sciences.;Yes;https://www.biorxiv.org/;March, 8th 2025
+Authorea;5;A multi-disciplinary platform for researchers to draft, share preprints, and publish research.;Yes;https://www.authorea.com;March, 8th 2025
+Word;5;Microsoft's widely used text editor that enables creating and editing documents as well as collaborative writing;Yes;https://www.microsoft.com/en-us/microsoft-365/word;March, 8th 2025
+Exemplary OA Journals;5;Open Access publication;;;
+PCI Journals;5;Overlay journals with Diamond OA;;;
