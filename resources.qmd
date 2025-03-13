@@ -48,7 +48,9 @@ res_data <- read_delim("sup_data.csv", delim = ";", col_types = "cccc")
 ```
 
 ```{r}
+res_data$Link <- paste0("[",res_data$Link,"]","(",res_data$Link,")")
 formattable(res_data)
+
 ```
 
 ```{=html}
@@ -60,7 +62,3 @@ formattable(res_data)
 : List of resources {#tbl-resources}
 -->
 ```
-
-pretty tables in r
-
-link jako hiperlacze
