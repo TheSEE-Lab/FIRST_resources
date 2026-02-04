@@ -12,6 +12,7 @@ format:
     code-fold: show
     code-tools: true
     number-sections: true
+    css: styles.css
 crossref: 
   fig-title: Figure     # (default is "Figure")
   tbl-title: Table     # (default is "Table")
@@ -44,12 +45,19 @@ pacman::p_load(
 ```
 
 ```{r}
-res_data <- read_delim("sup_data.csv", delim = ";", col_types = "cccc")
+res_data <- read_delim("sup_data.csv", delim = ";", col_types = "ciiiiiicccc")
+
+res_data <- res_data %>%
+    mutate(stages = paste(S1 * 1, S2 * 2, S3 * 3, S4 * 4, S5 * 5, sep = ", ") %>%
+        str_remove_all("NA, |, NA|NA")) %>%
+    select(Name, stages, Comment, Free, Link)
 ```
 
 ```{r}
+#| column: page
 res_data$Link <- paste0("[",res_data$Link,"]","(",res_data$Link,")")
-formattable(res_data)
+formattable(res_data, align = "l", 
+            list(area() ~ formatter("span", style = ~ style(font.size = "smaller"))))
 
 ```
 
