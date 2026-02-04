@@ -13,6 +13,7 @@ format:
     code-tools: true
     number-sections: true
     css: styles.css
+    output-file: index.html
 crossref: 
   fig-title: Figure     # (default is "Figure")
   tbl-title: Table     # (default is "Table")

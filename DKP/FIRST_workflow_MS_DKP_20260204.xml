@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoauthorData>
+  <Metadata>
+    <ProjectTitle>FIRST_workflow_MS</ProjectTitle>
+    <Threshold>NA</Threshold>
+    <SaveDate>2026-02-04</SaveDate>
+  </Metadata>
+  <Tasks>
+    <Task>
+      <Group>Conceptualisation</Group>
+      <Name>initial idea</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Conceptualisation</Group>
+      <Name>idea refinement</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Validation</Group>
+      <Name>edatabase of tools</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>first draft</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>comments</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>formatting compliance</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>final version &amp; submission</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>pre-sub enquiry writing</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Writing</Group>
+      <Name>pre-sub enquiry comments</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Visualisation</Group>
+      <Name>leading</Name>
+      <Type>Binary</Type>
+    </Task>
+    <Task>
+      <Group>Visualisation</Group>
+      <Name>auxilliary</Name>
+      <Type>Binary</Type>
+    </Task>
+  </Tasks>
+  <Authors>
+    <Author>
+      <Name>Szymon M. Drobniak</Name>
+      <Points>
+        <Point task="initial idea">1</Point>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools">1</Point>
+        <Point task="first draft">1</Point>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance">1</Point>
+        <Point task="final version &amp; submission">1</Point>
+        <Point task="pre-sub enquiry writing">1</Point>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading">1</Point>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Joseph Cincotta</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Malgorzata Lagisz</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>April Martinig</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Kyle Morrison</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Pietro Pollo</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Patrice Pottier</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools">1</Point>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Lorenzo Ricolfi</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Samantha Burke</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Ayumi Mizuno</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools">1</Point>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary">1</Point>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Jess Tam</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Coralie Williams</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Yefeng Yang</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools"/>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Pawel Podkowa</Name>
+      <Points>
+        <Point task="initial idea"/>
+        <Point task="idea refinement"/>
+        <Point task="edatabase of tools">1</Point>
+        <Point task="first draft"/>
+        <Point task="comments">1</Point>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior/>
+      <Equal/>
+      <Exclude/>
+    </Author>
+    <Author>
+      <Name>Shinichi Nakagawa</Name>
+      <Points>
+        <Point task="initial idea">1</Point>
+        <Point task="idea refinement">1</Point>
+        <Point task="edatabase of tools">1</Point>
+        <Point task="first draft">1</Point>
+        <Point task="comments"/>
+        <Point task="formatting compliance"/>
+        <Point task="final version &amp; submission"/>
+        <Point task="pre-sub enquiry writing"/>
+        <Point task="pre-sub enquiry comments">1</Point>
+        <Point task="leading"/>
+        <Point task="auxilliary"/>
+      </Points>
+      <Senior>1</Senior>
+      <Equal/>
+      <Exclude/>
+    </Author>
+  </Authors>
+</CoauthorData>
